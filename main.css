@@ -32,6 +32,8 @@ li {
     opacity: 0.2;
 
 }
+
+
 /* ==============================================
    GLOBAL STYLES
    ============================================== */
@@ -54,9 +56,17 @@ tekst_uitschuif {
     color: white;
 }
 
+.infinity {
+    margin-top: 150px;
+}
+.titel {
+    margin-top: 0px;
+    margin-left: 300px;
+}
 
-
-
+.slideshow {
+    margin-top: 300;
+}
 
 /* MEDIA QUERIES
 *********************************************/
