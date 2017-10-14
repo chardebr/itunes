@@ -22,7 +22,16 @@ p {
     font-weight: 80px;
 }
 
+li {
+    font-family: 'Quicksand';
+    color: rgb(255, 222, 0);
+    font-weight: 80px;
+}
 
+.lijn {
+    opacity: 0.2;
+
+}
 /* ==============================================
    GLOBAL STYLES
    ============================================== */
