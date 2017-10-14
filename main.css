@@ -3,23 +3,31 @@
 
    ============================================== */
 h1 {
+    font-family: 'Quicksand';
     color: black;
 }
 
 h2 {
+    font-family: 'Quicksand'
     color: black;
 }
 h3 {
+    font-family: 'Quicksand'
     color: black;
 }
 
-p { color: black;
+p { 
+    font-family: 'Quicksand';
+    color: rgb(255, 222, 0);
+    font-weight: 80px;
 }
 
 
 /* ==============================================
    GLOBAL STYLES
    ============================================== */
+   @import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Quicksand');
+
    article{
     background-color:;
     margin-bottom: 0.7rem;
@@ -31,6 +39,10 @@ p { color: black;
 
 .achtergrond{ 
     background-color: black;
+}
+
+tekst_uitschuif {
+    color: white;
 }
 
 
@@ -82,4 +94,14 @@ a:hover{
 
 .uitschuif {
     position: center;
+}
+
+h3{
+    color:white;
+
+}
+
+
+ol {
+    color: yellow;
 }
