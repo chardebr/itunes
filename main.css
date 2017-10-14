@@ -1,19 +1,19 @@
 /* ==============================================
    COLORS
-   
+
    ============================================== */
 h1 {
-    color: white;
+    color: black;
 }
 
 h2 {
-    color: white;
+    color: black;
 }
 h3 {
-    color: white;
+    color: black;
 }
 
-p { color: white;
+p { color: black;
 }
 
 
@@ -32,6 +32,8 @@ p { color: white;
 .achtergrond{ 
     background-color: black;
 }
+
+
 
 
 
@@ -64,4 +66,20 @@ p { color: white;
 
 p.uppercase {
     text-transform: uppercase;
+}
+.item{
+    text-decoration: none;
+    border-bottom: none;
+}
+
+a{
+    color: black;
+}
+a:hover{
+    color: grey;
+    text-decoration: none;
+}
+
+.uitschuif {
+    position: center;
 }
