@@ -47,6 +47,10 @@ a:hover{
     margin-left: 200px;
 }
 
+.titel_links2 {
+    margin-left: 210px;
+}
+
 .titel_rechts{
     margin-right: 200px;
 }
@@ -73,7 +77,7 @@ tekst_uitschuif {
 }
 
 .infinity {
-    margin-top: 50px;
+    margin-top: 0px;
 }
 
 
@@ -86,6 +90,9 @@ tekst_uitschuif {
     margin-top: 300;
 }
 
+.lager {
+    margin-top: px;
+}
 /* MEDIA QUERIES
 *********************************************/
 
