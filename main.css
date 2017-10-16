@@ -18,7 +18,8 @@ h3 {
 
 p { 
     font-family: 'Quicksand';
-    color: rgba(253, 195, 119, 0.884);
+   /* color: rgba(253, 195, 119, 0.884);*/
+   color: black;
     font-weight: 80px;
 }
 
@@ -58,7 +59,7 @@ a:hover{
 }
 
 .achtergrond{ 
-    background-color: black;
+    background-color:;
 }
 
 tekst_uitschuif {
