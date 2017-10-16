@@ -43,7 +43,13 @@ a:hover{
     text-decoration: none;
 }
 
+.titel_links {
+    margin-left: 200px;
+}
 
+.titel_rechts{
+    margin-right: 200px;
+}
 /* ==============================================
    GLOBAL STYLES
    ============================================== */
@@ -120,7 +126,7 @@ p.uppercase {
 }
 
 h3{
-    color:white;
+    color: black;
 
 }
 
