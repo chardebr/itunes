@@ -25,7 +25,7 @@ p {
 
 li {
     font-family: 'Quicksand';
-    color: rgb(255, 222, 0);
+    color: black;
     font-weight: 80px;
 }
 
@@ -87,12 +87,22 @@ tekst_uitschuif {
 }
 
 .slideshow {
-    margin-top: 300;
+    
+    margin: auto;
+    width: 100%;
+
 }
 
 .lager {
     margin-top: px;
 }
+
+.uitschuif {
+    border: none;
+
+}
+
+
 /* MEDIA QUERIES
 *********************************************/
 
@@ -103,22 +113,38 @@ tekst_uitschuif {
 
 /* Small devices (landscape phones, 576px and up)*/
 
-@media (min-width: 576px) {}
+@media (min-width: 576px) {
+    html{
+        font-size: 3px;
+    }
+}
 
 
 /* Medium devices (tablets, 768px and up)*/
 
-@media (min-width: 768px) {}
+@media (min-width: 768px) {
+    html{
+        font-size: 15px;
+    }
+}
 
 
 /* Large devices (desktops, 992px and up)*/
 
-@media (min-width: 992px) {}
+@media (min-width: 992px) {
+    html{
+        font-size: 18px;
+    }
+}
 
 
 /* Extra large devices (large desktops, 1200px and up)*/
 
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+    html{
+        font-size: 18px;
+    }
+}
 
 p.uppercase {
     text-transform: uppercase;
