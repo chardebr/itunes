@@ -30,7 +30,7 @@ li {
 }
 
 .lijn {
-    opacity: 0.2;
+    padding-top:20px;
 
 }
 
@@ -116,11 +116,23 @@ tekst_uitschuif {
 
 .titel_artiest {
     margin-left: 10px;
-    color: rgba(247, 79, 12, 0.884);
+    color: rgba(247, 126, 12, 0.87);
 }
+
+.titel_artiest2 {
+    margin-left: 200px;
+    color: rgba(247, 126, 12, 0.87);
+}
+
 .afbeelding_artiest {
     margin-left: 10px;
 }
+
+.volgknop {
+    float: right;
+}
+
+
 /* MEDIA QUERIES
 *********************************************/
 
