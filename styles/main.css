@@ -4,7 +4,7 @@
    ============================================== */
 h1 {
     font-family: 'Quicksand';
-    color: black;
+    color: rgba(247, 145, 12, 0.884);;
 }
 
 h2 {
@@ -19,13 +19,13 @@ h3 {
 p { 
     font-family: 'Quicksand';
    /* color: rgba(253, 195, 119, 0.884);*/
-   color: black;
+   color: rgba(247, 145, 12, 0.600);
     font-weight: 80px;
 }
 
 li {
     font-family: 'Quicksand';
-    color: black;
+    color: rgba(247, 145, 12, 0.600);
     font-weight: 80px;
 }
 
@@ -74,13 +74,6 @@ a:hover{
     width:auto;
 }
 
-.achtergrond{ 
-    background-color:;
-}
-
-tekst_uitschuif {
-    color: white;
-}
 
 .infinity {
     margin-top: 0px;
@@ -204,7 +197,7 @@ p.uppercase {
 }
 
 h3{
-    color: black;
+    color: rgba(247, 145, 12, 0.884);;
 
 }
 
